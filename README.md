@@ -27,5 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
+<h3>:trophy: Мои статистика:</h2> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igor-yakovlev&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

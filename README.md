@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/VK-brightgreen?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
-  <h1 align="center">Привет👋, я Игорь,  начинающий фронтенд разработчик🧒!</h1>
+  <h1 align="center">Привет👋, я Игорь, фронтенд разработчик!</h1>
 <h3>:trophy: Мои планы:</h2> 
 <li>Хочу писать более простой код 🔤</li>
 <li>Решать поставленные задачи сбалансированно 🕔</li>

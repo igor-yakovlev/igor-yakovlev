@@ -34,3 +34,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-yakovlev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3>🌱Последние выполненные проекты:</h3>
+<li><a target="_blank" href="https://igor-yakovlev.github.io/alfa/">Ristagram</a></li>
+<li><a target="_blank" href="https://igor-yakovlev.github.io/hammer-app/app/main/planner">Emilus planner</a></li>
+<li><a target="_blank" href="https://igor.yakovlev.nomorepartiesxyz.ru/sign-in">Mesto</a></li>
+...to be continued
+
+
+
+

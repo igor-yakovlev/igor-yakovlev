@@ -10,11 +10,7 @@
   </a>
 </div>
   <h1 align="center">Привет👋, я Игорь, фронтенд разработчик!</h1>
-<h3>:trophy: Мои планы:</h2> 
-<li>Хочу писать более простой код 🔤</li>
-<li>Решать поставленные задачи сбалансированно 🕔</li>
-<li>Развить навыки работы с дополнительными бибилиотеками и фрэймворками 📑</li>
-<li>Улучшить навыки коммуникации и работы в команде 🤜</li>
+
 <h3>:hammer_and_wrench: Мой стэк:</h2> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,7 +33,6 @@
 <h3>🌱Последние выполненные проекты:</h3>
 <li><a target="_blank" href="https://igor-yakovlev.github.io/alfa/">Ristagram</a></li>
 <li><a target="_blank" href="https://igor-yakovlev.github.io/hammer-app/app/main/planner">Emilus planner</a></li>
-<li><a target="_blank" href="https://igor.yakovlev.nomorepartiesxyz.ru/sign-in">Mesto</a></li>
 ...to be continued
 
 

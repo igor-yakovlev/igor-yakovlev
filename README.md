@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/VK-brightgreen?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
 </div>
-  <h1 align="center">Привет👋, я Игорь, фронтенд разработчик!</h1>
+  <h1 align="center">Приветствую, я Игорь, фронтенд разработчик!</h1>
 
-<h3>:hammer_and_wrench: Мой стэк:</h2> 
+<h3>:hammer_and_wrench: стэк:</h2> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -24,13 +24,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<h3>:trophy: Моя статистика:</h3>
+<h3>:trophy: статистика:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igor-yakovlev&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igor-yakovlev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>🌱Последние выполненные проекты:</h3>
+<h3>Последние выполненные проекты:</h3>
 <li><a target="_blank" href="https://igor-yakovlev.github.io/alfa/">Ristagram</a></li>
 <li><a target="_blank" href="https://igor-yakovlev.github.io/hammer-app/app/main/planner">Emilus planner</a></li>
 ...to be continued
